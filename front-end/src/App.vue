@@ -1,5 +1,5 @@
 <template>
-  <h1>Christ is Lord</h1>
+  <h1>Olive Garden</h1>
   <div class="page-wrap">
     <router-view></router-view>
   </div>
